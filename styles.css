@@ -1,2 +1,17 @@
-
+table{
+    /* border: 1px solid; */
+    border-collapse: collapse;
+    width: 80vw;
+    height: 25vh;
+}
+.total-1{
+    background-color: rgb(57, 57, 57);
+    color: #fff;
+}
+.total-2, .total-3, .total-5{
+    box-shadow: 0px .3px #d3cccc;
+}
+.total-4{
+    border-bottom: 1px solid #9a9292;
+}
 /* Your CSS Code here. */
